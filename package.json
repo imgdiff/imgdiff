@@ -1,0 +1,22 @@
+{
+  "name": "imgdiff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgdiff/imgdiff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imgdiff/imgdiff/issues"
+  },
+  "homepage": "https://github.com/imgdiff/imgdiff#readme",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
